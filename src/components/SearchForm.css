@@ -1,0 +1,9 @@
+.SearchForm-control {
+    height: 36px;
+    width: 50%;
+    font-size: 18px;
+    border: none;
+    border-radius: 4px;
+    padding: 0 12px;
+    box-sizing: border-box;
+}

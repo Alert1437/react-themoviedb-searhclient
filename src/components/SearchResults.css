@@ -1,0 +1,20 @@
+.SearchResults {
+    height: 708px;
+    overflow: auto;
+}
+
+.SearchResults__list {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 724px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.SearchResults__item {
+    padding: 8px;
+    box-sizing: border-box;
+    width: 236px;
+    height: 346px;
+}
